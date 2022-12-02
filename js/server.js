@@ -1,0 +1,1 @@
+const cars = new Array("Saab", "Volvo", "BMW");
